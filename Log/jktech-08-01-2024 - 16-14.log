@@ -1,0 +1,8 @@
+08-01-2024 - 16:14:24.744 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08-01-2024 - 16:14:24.768 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08-01-2024 - 16:14:24.864 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08-01-2024 - 16:14:24.867 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08-01-2024 - 16:14:24.973 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08-01-2024 - 16:14:24.978 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08-01-2024 - 16:14:25.060 [main] INFO  com.jktech.BaseClass.BaseClass - set the path of the chrome driver
+08-01-2024 - 16:14:31.652 [main] INFO  com.jktech.BaseClass.BaseClass - maximized the browser

@@ -1,0 +1,6 @@
+08-01-2024 - 16:14:34.024 [main] INFO  com.jktech.BaseClass.BaseClass - opened the url
+08-01-2024 - 16:14:34.246 [main] INFO  com.jktech.BaseClass.BaseClass - Created the object for login page under login test case
+08-01-2024 - 16:14:35.140 [main] INFO  com.jktech.BaseClass.BaseClass - entered the user name in login test case
+08-01-2024 - 16:14:36.094 [main] INFO  com.jktech.BaseClass.BaseClass - entered the password in login test case
+08-01-2024 - 16:14:36.643 [main] INFO  com.jktech.BaseClass.BaseClass - clicked the login button in login test case
+08-01-2024 - 16:14:40.065 [main] INFO  com.jktech.BaseClass.BaseClass - Screen shot captured

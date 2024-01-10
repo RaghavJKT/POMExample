@@ -1,0 +1,9 @@
+08-01-2024 - 16:13:16.695 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08-01-2024 - 16:13:16.716 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08-01-2024 - 16:13:16.791 [main] INFO  com.jktech.BaseClass.BaseClass - set the path of the chrome driver
+08-01-2024 - 16:13:22.804 [main] INFO  com.jktech.BaseClass.BaseClass - maximized the browser
+08-01-2024 - 16:13:24.967 [main] INFO  com.jktech.BaseClass.BaseClass - opened the url
+08-01-2024 - 16:13:25.306 [main] INFO  com.jktech.BaseClass.BaseClass - Created the object for login page under login test case
+08-01-2024 - 16:13:26.216 [main] INFO  com.jktech.BaseClass.BaseClass - entered the user name in login test case
+08-01-2024 - 16:13:26.748 [main] INFO  com.jktech.BaseClass.BaseClass - entered the password in login test case
+08-01-2024 - 16:13:27.294 [main] INFO  com.jktech.BaseClass.BaseClass - clicked the login button in login test case

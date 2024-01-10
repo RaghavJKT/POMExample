@@ -1,0 +1,10 @@
+07-01-2024 - 22:26:29.637 [main] INFO  com.jktech.BaseClass.BaseClass - entered the user name in login test case
+07-01-2024 - 22:26:29.854 [main] INFO  com.jktech.BaseClass.BaseClass - entered the password in login test case
+07-01-2024 - 22:26:30.126 [main] INFO  com.jktech.BaseClass.BaseClass - clicked the login button in login test case
+07-01-2024 - 22:26:33.889 [main] INFO  com.jktech.BaseClass.BaseClass - set the path of the chrome driver
+07-01-2024 - 22:26:35.971 [main] INFO  com.jktech.BaseClass.BaseClass - maximized the browser
+07-01-2024 - 22:26:36.915 [main] INFO  com.jktech.BaseClass.BaseClass - opened the url
+07-01-2024 - 22:26:36.921 [main] INFO  com.jktech.BaseClass.BaseClass - Created the object for login page under login test case
+07-01-2024 - 22:26:37.319 [main] INFO  com.jktech.BaseClass.BaseClass - entered the user name in login test case
+07-01-2024 - 22:26:37.600 [main] INFO  com.jktech.BaseClass.BaseClass - entered the password in login test case
+07-01-2024 - 22:26:37.829 [main] INFO  com.jktech.BaseClass.BaseClass - clicked the login button in login test case

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-10T05:20:24Z" name="Suite" finished-at="2024-01-10T05:21:01Z" duration-ms="37703">
+    <groups>
+    </groups>
+    <test started-at="2024-01-10T05:20:24Z" name="Test" finished-at="2024-01-10T05:21:01Z" duration-ms="37703">
+      <class name="com.jktech.TestCases.LoginTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.jktech.TestCases.LoginTest@2638011]" started-at="2024-01-10T10:50:37Z" name="setUp" finished-at="2024-01-10T10:50:50Z" duration-ms="12776" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validLoginTest(java.lang.String, java.lang.String)[pri:0, instance:com.jktech.TestCases.LoginTest@2638011]" started-at="2024-01-10T10:50:50Z" name="validLoginTest" data-provider="data" finished-at="2024-01-10T10:51:00Z" duration-ms="10016" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.jktech.TestCases.LoginTest@2638011]" started-at="2024-01-10T10:51:00Z" name="tearDown" finished-at="2024-01-10T10:51:01Z" duration-ms="1550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.jktech.TestCases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
