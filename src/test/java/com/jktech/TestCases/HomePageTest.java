@@ -20,7 +20,7 @@ public class HomePageTest extends BaseClass{
 		login.validLoginTest("standard_user", "standard_user");		
 		homePage = new HomePage(driver);
 		System.out.println("new changes");
-		
+		System.out.println("new changes");
 		
 	}
 
