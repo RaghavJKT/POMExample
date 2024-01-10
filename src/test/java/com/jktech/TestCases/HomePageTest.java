@@ -19,7 +19,7 @@ public class HomePageTest extends BaseClass{
 		login = new LoginTest();
 		login.validLoginTest("standard_user", "standard_user");		
 		homePage = new HomePage(driver);
-		
+		System.out.println("new changes");
 		
 		
 	}
